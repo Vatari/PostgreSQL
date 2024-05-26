@@ -1,2 +1,32 @@
-# PostgreSQL
-Course PostgreSQL
+In the "Python DB" module, knowledge about PostgreSQL and popular ORM (Object-Relational Mapping) tools for handling databases with Python is acquired. The first part of the module focuses on PostgreSQL, introducing students to basic concepts in the world of databases. The module will familiarize them with one of the most widely used Database Management Systems (DBMS) in the development of modern applications - PostgreSQL. They will gain skills in working with relational databases, with emphasis on core functionalities such as working with tables, aggregate functions, transactions, procedures, etc. The second course is related to working with databases using the standard for object-oriented data modeling in Python - Django and SQLAlchemy. Students will use the knowledge accumulated so far in object-oriented programming and PostgreSQL, in order to be able to build large projects by the end of the module, navigate through them, and apply popular methodologies and best practices for code writing.
+
+Languages
+SQL
+Python
+Frameworks
+Django
+SQLAlchemy
+Judge System
+Problem descriptiom and online judge system
+Table of Contents:
+1. PostgreSQL
+Databases are the standard way of utilizing dynamic information in modern technologies, making them an integral part of almost every application. The intensive course on database fundamentals will acquaint students with one of the most widely used Database Management Systems (DBMS) employed in the development of contemporary information systems - PostgreSQL. The course places significant emphasis on the relational model, ER diagrams (tables and relational connections), and working with the SQL language (data retrieval, selection, projection, joins, aggregation, grouping, modification, deletion, and insertion). Fundamental knowledge is provided for working with functions, procedures, transactions, and triggers. This course lays the groundwork for working with databases, making their use in real applications easier and facilitating the understanding of concepts such as transforming a database into an object-oriented model (ORM).
+PostgreSQL Introduction. Data Types. Working with Tables
+Basic CRUD
+Built-in Functions
+Data Aggregation
+Table Relations
+Subqueries and JOINs
+Database Programmability and Transactions
+2. Python ORM
+The course covers the basics of mapping between a relational database and an object-oriented model (ORM) with a focus on the Django framework. It starts with an introduction to ORM and its key concepts before moving on to working with models in Django, including defining models, fields, and methods. Next, the course delves into advanced topics such as migrations and the Django admin interface, query operations, relationships between models, and inheritance. Students will also learn more complex techniques for working with models and using ORM queries in Django. The course also covers another popular Python ORM framework - SQLAlchemy, which offers an alternative approach. Exercises will be provided during the training to help participants solidify their knowledge at each step. By the end of this course, they will acquire foundational skills for building stable, scalable, and efficient web applications driven by databases using Python ORM frameworks.
+ORM Introduction
+Django Models Basics
+Migrations and Django Admin
+Data Operations in Django with Queries
+Working with Queries in Django
+Django Models Relations
+Models Inheritance and Customization
+Advanced Django Model Techniques
+Advanced Queries in Django
+SQLAlchemy
