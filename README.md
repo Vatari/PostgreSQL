@@ -59,5 +59,3 @@ The course covers the basics of mapping between a relational database and an obj
 
 <br/>
 <br/>
-
-<h6 align="center"> Made with by Anton Petrov </h6>
